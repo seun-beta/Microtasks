@@ -63,7 +63,7 @@ This repository in [Microtask 3](#microtask3) explains how I intend to solve the
 | [Add extra description for beginner contributors](https://github.com/chaoss/governance/pull/251) | merged |
 
 ### Extra contribution.<a name = "extra"></a> 
-I added some documentation to describe the structure of the CHAOSS website deployed from markdown. [Beginners Gude](https://github.com/chaoss/website/tree/master/Beginners%20Guide) takes care of this. This makes navigating the markdown files easier for beginner contributors as they can now logically place where each part of the website is. This is still a work in progress and would continue even if I am accepted as a GSoC participant or not.
+I added some documentation to describe the structure of the CHAOSS website deployed from markdown. [Beginners Guide](https://github.com/chaoss/website/tree/master/Beginners%20Guide) takes care of this. This makes navigating the markdown files easier for beginner contributors as they can now logically place where each part of the website is. This is still a work in progress and would continue even if I am accepted as a GSoC participant or not.
 
 ## Microtask 3 <a name = "microtask3"></a> 
 Create a repository that contains:
@@ -131,7 +131,7 @@ The output.pdf file has all the necessary listings. Colouring, fonts, hyperlinks
 
 
 - References  
-https://pandoc.org/
-https://miktex.org/
-https://github.com/Wandmalfarbe/pandoc-latex-template
-https://tex.stackexchange.com/
+https://pandoc.org/  
+https://miktex.org/  
+https://github.com/Wandmalfarbe/  pandoc-latex-template  
+https://tex.stackexchange.com/  
