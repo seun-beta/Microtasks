@@ -1,0 +1,28 @@
+---
+titlepage: "true"
+titlepage-color: "FFFFFF"
+titlepage-text-color: "000000"
+keywords: [Markdown, Example]
+toc-own-page: "true"
+listings-no-page-break: "true"
+footnotes-pretty: "true"
+toc: "true"
+bash-completion: "true"
+toc-depth: "3"
+highlight-style: "pygments.theme"
+linkcolor: "blue"
+urlcolor: "blue"
+toccolor: "blue"
+colorlinks: "true"
+monofont: "DejaVuSansMono"
+mainfont: "DejaVuSerif"
+sansfont: "DejaVuSansMono"
+mathfont: "TeXGyreDejaVuMath"
+fontsize: "40"
+logo: ""
+titlepage-background: "chaoss.png"
+
+
+
+...
+
