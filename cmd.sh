@@ -1,0 +1,1 @@
+pandoc contributors.md release-notes.md metadata.yaml -o output.pdf --from markdown --template eisvogel --listings
