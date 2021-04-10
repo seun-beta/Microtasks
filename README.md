@@ -133,5 +133,5 @@ The output.pdf file has all the necessary listings. Colouring, fonts, hyperlinks
 - References  
 https://pandoc.org/  
 https://miktex.org/  
-https://github.com/Wandmalfarbe/  pandoc-latex-template  
+https://github.com/Wandmalfarbe/pandoc-latex-template    
 https://tex.stackexchange.com/  
